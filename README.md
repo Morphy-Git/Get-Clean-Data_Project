@@ -1,17 +1,16 @@
 # Get-Clean-Data_Project Peer-graded Assignment
 
-# Original Data Source: Human Activity Recognition Using Smartphones Dataset, Version 1.0 
+## Original Data Source: Human Activity Recognition Using Smartphones Dataset, Version 1.0 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Universit‡ degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
-The dataset includes the following files:
+
+## The dataset includes the following files:
 
 - ‘Codebook.md’: The code book that describes the variables and any transformations or work that I performed to clean up the data.
 
