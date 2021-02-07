@@ -10,7 +10,7 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
-## The dataset includes the following files:
+## The dataset includes the following files
 
 - ‘Codebook.md’: The code book that describes the variables and any transformations or work that I performed to clean up the data.
 
